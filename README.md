@@ -1,5 +1,13 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+This is C# Onboarding. The curriculumn is made to meet SKD requirement. Contains assignment and any other learn
+
+Curriculum:
+- Day1: Introduction to .NET API, LINQ, and Swagger
+- Day2: Entity Framework Core (EF Core), 
+- Day3: Docker and AKS [on this repo](https://github.com/hanifaarrumaisha/Fabmedical.git)
+- Day4: EventHub, Quartz (Job), Redis
+
+Check each branch for related update on specific day.
 
 # Getting Started
 TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
